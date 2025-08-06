@@ -1,0 +1,28 @@
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Advanced\Question2\Question2\bin\Debug\net8.0\Question2.exe
+E:\ASP.NET Course\Advanced\Question2\Question2\bin\Debug\net8.0\Question2.deps.json
+E:\ASP.NET Course\Advanced\Question2\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+E:\ASP.NET Course\Advanced\Question2\Question2\bin\Debug\net8.0\Question2.dll
+E:\ASP.NET Course\Advanced\Question2\Question2\bin\Debug\net8.0\Question2.pdb
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.dll
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\refint\Question2.dll
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.pdb
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+E:\ASP.NET Course\Advanced\Question2\Question2\obj\Debug\net8.0\ref\Question2.dll
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\bin\Debug\net8.0\Question2.exe
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\bin\Debug\net8.0\Question2.deps.json
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\bin\Debug\net8.0\Question2.dll
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\bin\Debug\net8.0\Question2.pdb
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.dll
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\refint\Question2.dll
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.pdb
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+E:\ASP.NET Course\Advanced C#\C44-G01-ADVANCED C#\Question2\Question2\obj\Debug\net8.0\ref\Question2.dll
